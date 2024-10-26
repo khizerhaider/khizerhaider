@@ -21,7 +21,7 @@ I'm a passionate tech enthusiast and developer with a strong background in Compu
 
 📫 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/syed-muhammad-khizer-haider-152792291/)for professional networking.
+[LinkedIn ](https://www.linkedin.com/in/syed-muhammad-khizer-haider-152792291/)for professional networking.
     Feel free to explore my projects and connect with me to discuss any ideas or potential collaborations!
 
 😄 Pronouns
