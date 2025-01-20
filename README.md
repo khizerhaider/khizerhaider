@@ -5,11 +5,11 @@ I'm a passionate tech enthusiast and developer with a strong background in Compu
 
     🚀 I'm a BSCS student at NUST with a keen interest in AI and software development.
     🧠 Passionate about leveraging data and algorithms to create innovative solutions.
-    🛠 Experienced in a variety of tech areas, from GUI development in PySide6 to backend management with MongoDB, and even tackling algorithm-based challenges in C++!
+    🛠 Experienced in a variety of tech areas, from GUI development in PySide6 to backend management with MongoDB, and even tackling algorithm-based challenges in C++!, as well as proficient in Natural Language Processing and Deeplearning/MachineLearning also i have specialities in Generative AI with LLMs 
 
 🌱 Currently Learning
 
-    📊 Deep Learning and AI frameworks like TensorFlow.
+    📊 Generative AI with LLMs
     📈 Best practices for machine learning model training and optimization.
     💻 Improving my skills in systems programming with C++ and Python.
 
